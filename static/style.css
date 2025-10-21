@@ -1,0 +1,16 @@
+body { font-family: Arial, sans-serif; margin: 30px; background-color: #fafafa; }
+h1 { color: #333; }
+form { margin-bottom: 30px; }
+input, textarea { 
+    margin: 5px 0; 
+    padding: 8px; 
+    width: 400px; 
+    box-sizing: border-box; 
+    font-family: Arial, sans-serif;
+}
+textarea { 
+    height: 80px; 
+    resize: none;  
+}
+.post { background: white; border: 1px solid #ccc; padding: 10px; border-radius: 10px; margin-bottom: 10px; }
+.time { color: gray; font-size: 0.9em; }
